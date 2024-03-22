@@ -1,0 +1,96 @@
+.left-container {
+  min-width: 40%;
+  padding: 0px 0px 50px 10px;
+}
+
+.image {
+  padding: 15px 20px;
+  border: 1px solid #f0f0f0;
+  width: 95%;
+}
+.main {
+  padding: 0px 0 0 0px;
+}
+.styled-button_1 {
+  width: 46%;
+  border-radius: 2px;
+  height: 50px;
+  color: #fff;
+  border-radius: 5px;
+  margin-right: 10px;
+  background-color: #ff9f00;
+}
+
+.styled-button_2 {
+  width: 46%;
+  border-radius: 2px;
+  height: 50px;
+  color: #fff;
+  border-radius: 5px;
+  background-color: #fb541b;
+}
+/* styles.css */
+
+.small-text {
+  font-size: 14px;
+}
+
+.offer {
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.label {
+  color: #878787;
+}
+
+.value {
+  font-weight: 600;
+}
+
+.seller {
+  color: #2874f0;
+}
+
+.ad-image {
+  width: 390px;
+}
+
+/* styles.css */
+
+.component {
+  margin-top: 55px;
+  background: #f2f2f2;
+}
+
+.container {
+  background: #ffffff;
+  display: flex;
+}
+
+.left-container {
+  margin-top: 50px;
+}
+
+.right-container {
+  margin-top: 50px;
+}
+
+.rating {
+  margin-top: 10px;
+  color: #878787;
+  font-size: 14px;
+}
+
+.fassured {
+  width: 77px;
+  margin-left: 20px;
+}
+
+.price {
+  font-size: 28px;
+}
+
+.discount {
+  color: #388e3c;
+}

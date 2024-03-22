@@ -1,0 +1,37 @@
+/* external-styles.css */
+
+.profile-box {
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.profile-text {
+  margin-top: 3px;
+  font-size: 14px;
+}
+
+.menu {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 5px 0;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  padding: 5px 10px;
+}
+
+.menu-item:hover {
+  background-color: #f0f0f0;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.logout-text {
+  font-size: 14px;
+  margin: 0;
+}

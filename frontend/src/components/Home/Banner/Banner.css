@@ -1,0 +1,42 @@
+.slick-arrow.slick-prev,
+.slick-arrow.slick-next {
+  width: 47px;
+  height: 104px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  background: #fcfcfc;
+  color: #000;
+  z-index: 1;
+}
+
+.slick-prev {
+  left: 0;
+  border-radius: 0 5px 5px 0;
+}
+.slick-next {
+  right: 0;
+  border-radius: 5px 0 0 5px;
+}
+.slick-prev::before,
+.slick-next::before {
+  display: none;
+}
+.banner-container {
+  height: 44px;
+  width: 100%;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.banner-item {
+  width: 100%;
+}
+
+.banner-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}

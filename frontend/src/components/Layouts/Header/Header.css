@@ -1,0 +1,46 @@
+.wrapper {
+  display: flex;
+  margin: 0 3% 0 auto;
+  margin-right: 40px;
+  font-size: 16px;
+  align-items: center;
+}
+
+.LoginButton {
+  margin-right: 40px;
+  margin-left: 10px;
+  font-size: 16px;
+  align-items: center;
+  color: #2874f0;
+  background: #fff;
+  text-transform: none;
+  padding: 2px 40px;
+  border-radius: 2px;
+  box-shadow: none;
+  font-weight: 600;
+  height: 30px;
+  cursor: pointer;
+}
+.container {
+  display: flex;
+  margin-right: 40px;
+  font-size: 16px;
+  align-items: center;
+}
+.seller {
+  width: 135px;
+  margin-top: 3px;
+}
+.more {
+  margin-top: 3px;
+}
+p {
+  display: flex;
+  margin-right: 40px;
+  font-size: 16px;
+  /* color: #fff; */
+  align-items: center;
+}
+.logo_cart {
+  color: #fff;
+}
